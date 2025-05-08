@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7024c41f-5c4a-42bb-a0a3-1634d5ce7854)# HiringAndRecruitmentProcess
+# HiringAndRecruitmentProcess
 HIRING AND RECRUITMENT  PROCESS USING MACHINE LEARNING
 **Introduction**
 
