@@ -64,9 +64,11 @@ job position.
 **Machine Learning Techniques**
 
 **TF-IDF Vectorization:**
+
 1.This technique is a form of feature extraction widely used in information retrieval and text mining. 
 2.It converts the job description and resume texts into numerical vectors.
 **Cosine Similarity:**
+
 1.The code calculates the cosine similarity between the TF-IDF vectors of the job description and each resume. 
 2.Cosine similarity is a measure of similarity between two vectors and is commonly used in information retrieval and document similarity tasks.
 
