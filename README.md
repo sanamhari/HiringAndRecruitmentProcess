@@ -41,11 +41,13 @@ job position.
 
 **Modules**
 **User**
+
 1.The User can register the first. 
 2.While registering he required a valid user email and mobile for further communications. 
 3.Once the user registers, then admin can activate the customer. 
 4.Once the admin activates the customer then the customer can login into our system. 
 **Admin**
+
 1.Admin can login with his credentials. 
 2.Once he logs in he can activate the users. 
 3.The activated user only login in our applications. 
@@ -53,25 +55,31 @@ job position.
 5.Admin can predict random forest algorithms and also predict the support vector machine algorithm. 
 6.The admin can add new data to the dataset.
 **Prediction**
+
 1.In prediction the user first gives the job description.
 2.Next the user uploads the number of resumes he/she want at a time.
 3.After submitting the job description and resumes the machine check the similarities between the job description and the resume content of each resume.
 4.The output will be in the form of table.
 5.The table contains rank  , email ,similarity percentage.  
 **Machine Learning Techniques**
+
 **TF-IDF Vectorization:**
 1.This technique is a form of feature extraction widely used in information retrieval and text mining. 
 2.It converts the job description and resume texts into numerical vectors.
 **Cosine Similarity:**
 1.The code calculates the cosine similarity between the TF-IDF vectors of the job description and each resume. 
 2.Cosine similarity is a measure of similarity between two vectors and is commonly used in information retrieval and document similarity tasks.
-**HARDWARE REQUIREMENTS**
+
+**Hardware Requirements**
+
 System      : Intel i3
 Hard Disk		: 1 TB
 Monitor     : 14’ Colour Monitor
 Mouse       : Optical Mouse
-RAM         : 4 GB
-**SOFTWARE REQUIREMENTS**
+RAM         : 4 GB
+
+**Software Requirements**
+
 Operating system	 : Windows 10, 64 Bit.
 Coding Language	   : Python and Django
 Front-End		       : Html, CSS
